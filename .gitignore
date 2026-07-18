@@ -1,0 +1,4 @@
+# Mengabaikan file log atau file sementara
+*.log
+*.tmp
+.DS_Store
