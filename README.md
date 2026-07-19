@@ -25,9 +25,9 @@ sudo usermod -aG i2c \$USER
 ## Cara Penggunaan
 1. Berikan izin eksekusi pada skrip:
    ```bash
-   chmod +x brightness.sh
+   chmod +x set_brightness
    ```
 2. Jalankan skrip:
    ```bash
-   ./brightness.sh
+   ./set_brightness
    ```
